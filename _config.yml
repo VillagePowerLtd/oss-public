@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
 show_downloads: false
-
+future: true
 title: Village-Power
 description: Launch platform for the three UNCDF tools
