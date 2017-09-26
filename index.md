@@ -26,6 +26,8 @@ This is the loan-portal.
 
 * [Manual - Server](https://raw.githubusercontent.com/VillagePowerLtd/oss-public/master/documentation/loanportal_server.pdf)
 
+* [How-To-Guide](https://raw.githubusercontent.com/VillagePowerLtd/oss-public/master/documentation/Loan_portal_how_to_guide_v1.1.pdf)
+
 ### Software-Packages
 
 * [Source-Code](https://raw.githubusercontent.com/VillagePowerLtd/oss-public/master/software-packages/loanportal-1.0.zip)
@@ -43,6 +45,8 @@ This is the market-database.
 * [Manual - Client](https://raw.githubusercontent.com/VillagePowerLtd/oss-public/master/documentation/marketdatabase_client.pdf)
 
 * [Manual - Server](https://raw.githubusercontent.com/VillagePowerLtd/oss-public/master/documentation/marketdatabase_server.pdf)
+
+* [How-To-Guide](https://raw.githubusercontent.com/VillagePowerLtd/oss-public/master/documentation/Market_database_how_to_guide_v1.1.pdf)
 
 ### Software-Packages
 
