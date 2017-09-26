@@ -10,7 +10,9 @@ This is the data-collection tool.
 
 * [Installation manual](https://raw.githubusercontent.com/VillagePowerLtd/oss-public/master/documentation/datacollection_techdoc.pdf)
 
-* [How-to guide](https://raw.githubusercontent.com/VillagePowerLtd/oss-public/master/documentation/datacollection_howto.pdf)
+* [Data Collection Tool How-To-Guide](https://raw.githubusercontent.com/VillagePowerLtd/oss-public/master/documentation/How-To-Guide_Form Installation_ODK v1.10.2_HTG v1.5_ext.pdf)
+
+* [Data Validation Functionality How-To-Guide](https://raw.githubusercontent.com/VillagePowerLtd/oss-public/master/documentation/How-To-Guide for the Data Validation Functionality_v1.1.pdf)
 
 ### xlsx Form Templates (for conversion to ODK forms)
 
@@ -38,7 +40,7 @@ This is the loan-portal.
 
 * [Manual - Server](https://raw.githubusercontent.com/VillagePowerLtd/oss-public/master/documentation/loanportal_server.pdf)
 
-* [How-To-Guide](https://raw.githubusercontent.com/VillagePowerLtd/oss-public/master/documentation/Loan_portal_how_to_guide_v1.1.pdf)
+* [How-To-Guide](https://raw.githubusercontent.com/VillagePowerLtd/oss-public/master/documentation/Loan portal how to guide_v1.1.pdf)
 
 ### Software-Packages
 
@@ -58,7 +60,7 @@ This is the market-database.
 
 * [Manual - Server](https://raw.githubusercontent.com/VillagePowerLtd/oss-public/master/documentation/marketdatabase_server.pdf)
 
-* [How-To-Guide](https://raw.githubusercontent.com/VillagePowerLtd/oss-public/master/documentation/Market_Database_How_To_Guide_1.1.pdf)
+* [How-To-Guide](https://raw.githubusercontent.com/VillagePowerLtd/oss-public/master/documentation/Market Database How To Guide_1.1.pdf)
 
 ### Software-Packages
 
