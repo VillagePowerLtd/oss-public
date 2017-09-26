@@ -12,6 +12,18 @@ This is the data-collection tool.
 
 * [How-to guide](https://raw.githubusercontent.com/VillagePowerLtd/oss-public/master/documentation/datacollection_howto.pdf)
 
+### xlsx Form Templates (for conversion to ODK forms)
+
+* [Sales Contract](https://raw.githubusercontent.com/VillagePowerLtd/oss-public/master/documentation/Sales_Contract_Template.xlsx)
+
+* [Kit Collection](https://raw.githubusercontent.com/VillagePowerLtd/oss-public/master/documentation/Kit_collection_Form_Template.xlsx)
+
+* [Installation visit](https://raw.githubusercontent.com/VillagePowerLtd/oss-public/master/documentation/Installation_Form_Template.xlsx)
+
+* [Trouble Shooting Visit](https://raw.githubusercontent.com/VillagePowerLtd/oss-public/master/documentation/Troubleshooting_Visit_Form_Template.xlsx)
+
+* [Reposession](https://raw.githubusercontent.com/VillagePowerLtd/oss-public/master/documentation/Reposession_Form_Template.xlsx)
+
 ### Software-Packages
 
 * [Source-Code](https://raw.githubusercontent.com/VillagePowerLtd/oss-public/master/software-packages/datacollection-1.0.zip)
