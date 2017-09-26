@@ -46,7 +46,7 @@ This is the market-database.
 
 * [Manual - Server](https://raw.githubusercontent.com/VillagePowerLtd/oss-public/master/documentation/marketdatabase_server.pdf)
 
-* [How-To-Guide](https://raw.githubusercontent.com/VillagePowerLtd/oss-public/master/documentation/Market_database_how_to_guide_v1.1.pdf)
+* [How-To-Guide](https://raw.githubusercontent.com/VillagePowerLtd/oss-public/master/documentation/Market_Database_How_To_Guide_1.1.pdf)
 
 ### Software-Packages
 
